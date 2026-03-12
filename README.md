@@ -1,7 +1,133 @@
-# Data-Science-Projects
-Data Science projects from Yandex Practicum
-Description:
-- **project 1** - Dairy Farm Data Analysis. This project focuses on developing two predictive models to assist a dairy farmer in selecting cows for herd expansion. One model predicts milk yield, while the other estimates the probability of producing tasty milk, helping the farmer meet strict criteria of at least 6000 kilograms of milk per year and high-quality taste.
-- **project 2** - Online Store Data Analysis. The task is to develop a solution that personalizes offers for loyal customers to increase their engagement and purchasing activity.
-- **project 3** - HR Analytics. The project focuses on developing models to predict employee satisfaction and the likelihood of resignation based on survey responses, where satisfaction levels are quantified on a scale from 0 to 1
-- **project 4** - Well Location Selection. In this project, we aim to determine the optimal location for drilling a new oil well by analyzing samples from three regions, each containing 10,000 oil fields with measured quality and reserve volume. Utilizing a machine learning model, we will evaluate potential profits and risks using Bootstrap techniques to identify the region that offers the highest profitability while ensuring a risk of losses below 2.5%.
+# Machine Learning Projects
+
+A collection of machine learning and data science projects implemented in Python as part of the **Yandex Practicum Data Science program**.  
+The repository contains practical case studies covering supervised learning, natural language processing, computer vision, time-series forecasting, and applied predictive modeling based on real-world datasets.
+
+## Tools
+
+Python • Pandas • NumPy • Scikit-learn • CatBoost • LightGBM • PyTorch • Transformers • Matplotlib • Seaborn • Jupyter Notebook
+
+---
+
+## Projects
+
+### Project 1 — Dairy Farm Production Analysis
+
+Development of predictive models to support decision-making in dairy farm herd expansion.
+
+Key tasks:
+- exploratory data analysis of livestock production data
+- milk yield prediction using regression models
+- classification of milk taste quality
+- identification of cows meeting strict production requirements
+
+---
+
+### Project 2 — Online Store Customer Behavior Analysis
+
+Analysis of customer interaction data to develop personalized offers and improve engagement.
+
+Key tasks:
+- customer behavior analysis
+- feature engineering from transaction data
+- predictive modeling for purchase probability
+- insights for personalized marketing strategies
+
+---
+
+### Project 3 — HR Analytics: Employee Satisfaction and Attrition
+
+Development of models predicting employee satisfaction and the probability of resignation.
+
+Key tasks:
+- analysis of employee survey data
+- regression model for satisfaction prediction
+- classification model for employee attrition
+- identification of key drivers of employee turnover
+
+---
+
+### Project 4 — Oil Well Location Selection
+
+Machine learning–based analysis to determine the most profitable region for drilling a new oil well.
+
+Key tasks:
+- prediction of oil reserves using regression models
+- profit estimation based on predicted production
+- risk assessment using Bootstrap techniques
+- selection of region with maximum expected profitability
+
+---
+
+### Project 5 — Used Car Price Prediction
+
+Development of machine learning models for estimating the market value of used cars.
+
+Key tasks:
+- data preprocessing and feature encoding
+- comparison of regression models
+- application of gradient boosting techniques
+- evaluation of model accuracy and training performance
+
+---
+
+### Project 6 — Taxi Demand Forecasting
+
+Time-series forecasting model predicting the number of taxi orders for the next hour.
+
+Key tasks:
+- time series analysis and feature engineering
+- creation of lag features and rolling statistics
+- regression models for short-term demand prediction
+- evaluation using RMSE metric
+
+---
+
+### Project 7 — Toxic Comment Detection (BERT)
+
+Natural language processing project focused on detecting toxic comments in user-generated content.
+
+Key tasks:
+- text preprocessing and dataset preparation
+- fine-tuning a transformer-based BERT model
+- binary classification of toxic comments
+- evaluation of NLP model performance
+
+---
+
+### Project 8 — Customer Age Prediction (Computer Vision)
+
+Deep learning model predicting customer age based on facial images.
+
+Key tasks:
+- image preprocessing and augmentation
+- training convolutional neural networks
+- evaluation using mean absolute error (MAE)
+- demographic analysis applications
+
+---
+
+### Project 9 — Telecom Customer Churn Prediction
+
+Machine learning model predicting customer churn for a telecom operator.
+
+Key tasks:
+- exploratory data analysis of telecom datasets
+- feature engineering from customer usage data
+- classification models for churn prediction
+- identification of high-risk customers
+
+---
+
+## Skills Demonstrated
+
+- exploratory data analysis (EDA)
+- data preprocessing and feature engineering
+- supervised machine learning
+- gradient boosting models
+- natural language processing (NLP)
+- deep learning and computer vision
+- time-series forecasting
+- model evaluation and validation
+- business-oriented predictive modeling
+- data visualization
