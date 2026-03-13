@@ -6,39 +6,31 @@ The repository contains practical case studies covering supervised learning, nat
 
 ## Tools & Technologies
 
-**Programming**
-
+### Programming
 Python • Jupyter Notebook
 
-**Data Processing**
-
+### Data Processing
 Pandas • NumPy
 
-**Machine Learning**
-
+### Machine Learning
 Scikit-learn  
 Linear Regression • Logistic Regression  
 Decision Tree • Random Forest  
-CatBoost • LightGBM • Gradient Boosting
+Gradient Boosting • CatBoost • LightGBM
 
-**Deep Learning**
-
+### Deep Learning
 PyTorch • HuggingFace Transformers (BERT)
 
-**Model Interpretation**
+### Model Interpretation & Explainability
+Feature Importance • SHAP
 
-SHAP
-
-**Time Series**
-
+### Time Series Analysis
 Lag Features • Rolling Statistics • Time Series Forecasting
 
-**Data Visualization**
-
+### Data Visualization
 Matplotlib • Seaborn
 
-**Other Techniques**
-
+### ML Workflow
 Feature Engineering • Hyperparameter Tuning • Cross-Validation • Bootstrap Sampling • Model Evaluation (RMSE, MAE, F1-score)
 
 ---
