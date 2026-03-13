@@ -3,9 +3,43 @@
 A collection of machine learning and data science projects implemented in Python as part of the **Yandex Practicum Data Science program**.  
 The repository contains practical case studies covering supervised learning, natural language processing, computer vision, time-series forecasting, and applied predictive modeling based on real-world datasets.
 
-## Tools
 
-Python • Pandas • NumPy • Scikit-learn • CatBoost • LightGBM • PyTorch • Transformers • Matplotlib • Seaborn • Jupyter Notebook
+## Tools & Technologies
+
+**Programming**
+
+Python • Jupyter Notebook
+
+**Data Processing**
+
+Pandas • NumPy
+
+**Machine Learning**
+
+Scikit-learn  
+Linear Regression • Logistic Regression  
+Decision Tree • Random Forest  
+CatBoost • LightGBM • Gradient Boosting
+
+**Deep Learning**
+
+PyTorch • HuggingFace Transformers (BERT)
+
+**Model Interpretation**
+
+SHAP
+
+**Time Series**
+
+Lag Features • Rolling Statistics • Time Series Forecasting
+
+**Data Visualization**
+
+Matplotlib • Seaborn
+
+**Other Techniques**
+
+Feature Engineering • Hyperparameter Tuning • Cross-Validation • Bootstrap Sampling • Model Evaluation (RMSE, MAE, F1-score)
 
 ---
 
