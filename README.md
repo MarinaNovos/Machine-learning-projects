@@ -30,7 +30,7 @@ Lag Features • Rolling Statistics • Time Series Forecasting
 ### Data Visualization
 Matplotlib • Seaborn
 
-### ML Workflow
+### Model Development & Evaluation
 Feature Engineering • Hyperparameter Tuning • Cross-Validation • Bootstrap Sampling • Model Evaluation (RMSE, MAE, F1-score)
 
 ---
